@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZumoRemote</string>
+    <string name="text_left_speed">Left: %d</string>
+    <string name="text_right_speed">Right: %d</string>
+</resources>
